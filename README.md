@@ -1,1 +1,3 @@
 # Model-Evaluation-and-Hyperparameter-Tuning
+
+Trained multiple machine learning models and evaluated their performance using metrics such as accuracy, precision, recall, and F1-score. Implemented hyperparameter tuning techniques like GridSearchCV and RandomizedSearchCV to optimize model parameters. Analyzed the results to select the best-performing model.
